@@ -1,12 +1,31 @@
-# 😃 hnc450
+<h1 align="center">Hi 😃, I'm hnc450</h1>
 
-## Hi there 👋
+<h3 align="center">Développeur passionné par le web, le backend et l'open source 🚀</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=Backend+Developer;Backend+%26+Web+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hnc450&label=Profile%20views&color=00b4d8&style=flat" alt="Profile views" />
+</p>
 
 ---
 
-## 💻 Languages
+## 🧑‍💻 À propos de moi
+
+- 🔭 Je travaille actuellement sur des projets **web**.
+- 🌱 J'apprends en ce moment **TypeScript** et les bonnes pratiques d'architecture logicielle.
+- 👯 Je cherche à collaborer sur des **projets open source**.
+- 💬 N'hésitez pas à me poser des questions sur **PHP, Laravel et le développement backend**.
+- ⚡ Fun fact : j'adore automatiser les tâches répétitives avec des scripts.
+
+---
+
+## 💻 Langages
 
 <p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/></a>
   <a href="#"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/></a>
   <a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
@@ -15,7 +34,7 @@
 
 ---
 
-## 📦 Frameworks
+## 📦 Frameworks & Librairies
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/></a>
@@ -23,7 +42,7 @@
 
 ---
 
-## 🛠️ Tools
+## 🛠️ Outils
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
@@ -33,7 +52,7 @@
 
 ---
 
-## 🌐 VCS Hosting
+## 🌐 Hébergement & VCS
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -42,25 +61,23 @@
 
 ---
 
-<!--
-**hnc450/hnc450** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 Mes statistiques GitHub
 
-Here are some ideas to get you started:
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hnc450&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hnc450&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hnc450&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## � Me contacter
+
+<p align="center">
+  <a href="https://github.com/hnc450"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
+
+<p align="center"><i>« Le code est comme l'humour. Quand on doit l'expliquer, c'est qu'il est mauvais. »</i></p>
